@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>ar.edu.utn.frc.tup.lc.iii</groupId>
-	<artifactId>scaffolding</artifactId>
+	<artifactId>guess-number</artifactId><!-- Hay que cambiar el nombre -->
 	<version>0.0.1-SNAPSHOT</version>
-	<name>scaffolding</name>
+	<name>guess-number</name><!-- Hay que cambiar el nombre -->
 	<description>Template SpringBoot</description>
 	<properties>
 		<java.version>17</java.version>
